@@ -1,5 +1,8 @@
 # https://edabit.com/challenge/jwzAdBnJnBxCe4AXP
 
+# Given a number, return the difference between the maximum and
+# minimum numbers that can be formed when the digits are rearranged.
+
 import unittest
 
 

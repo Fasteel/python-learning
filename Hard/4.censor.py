@@ -1,5 +1,8 @@
 # https://edabit.com/challenge/zJSF5EfPe69e9sJAc
 
+# Create a function that takes a string txt and censors any word from
+# a given list lst. The text removed must be replaced by the given character char.
+
 import unittest
 
 

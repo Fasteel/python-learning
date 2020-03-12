@@ -1,5 +1,9 @@
 # https://edabit.com/challenge/G9QRtAGXb9Cu368Pw
 
+# Create a function that takes a variable number of groups of items,
+# and returns the number of ways the items can be arranged, with one
+# item from each group. Order does not matter.
+
 import unittest
 
 

@@ -1,5 +1,8 @@
 # https://edabit.com/challenge/9zf6scCreprSaQAPq
 
+# Given a list of math expressions, create a function which sorts
+# the list by their answer. It should be sorted in ascending order.
+
 import unittest
 
 

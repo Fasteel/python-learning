@@ -1,5 +1,9 @@
 # https://edabit.com/challenge/qQnWXBsQaH73yY8r4
 
+# The Kempner Function, applied to a composite number, permits to
+# find the smallest integer greater than zero which factorial is
+# exactly divided by the number.
+
 import unittest
 
 
